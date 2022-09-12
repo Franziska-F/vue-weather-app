@@ -2,7 +2,6 @@
   <div class="flex flex-col min-h-screen bg-blue-300">
     <SiteNavigation />
     <RouterView />
-
   </div>
 </template>
 <script setup>
